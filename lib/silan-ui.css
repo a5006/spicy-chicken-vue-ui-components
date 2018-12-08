@@ -1,0 +1,1 @@
+.btnCls{width:1px;height:1px;position:relative}.btnCls:before{background:#90ee90}.btnCls:before,.btnCls:checked:before{content:"";display:block;position:absolute;width:20px;height:10px;border-radius:1px}.btnCls:checked:before{background:#f08080}
